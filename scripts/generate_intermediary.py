@@ -5,9 +5,6 @@ generate_intermediary.py
 
 Very small proof-of-concept script that turns Mojang's named mappings into
 stable hashed “intermediary” names (class_XXXX, method_XXXX, field_XXXX).
-
-❗ Replace the hashing / name scheme with your preferred logic or hook up
-Fabric's Stitch/Tiny-Remapper for production use.
 """
 from pathlib import Path
 import hashlib
