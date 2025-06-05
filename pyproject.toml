@@ -1,0 +1,10 @@
+[project]
+name = "obscura"
+version = "0.1.0"
+description = "Automated generation of stable intermediary mappings for Minecraft server jars."
+authors = [
+    { name="ThreadMC", email="contact@threadmc.com" }
+]
+license = { file = "LICENSE" }
+readme = "README.md"
+requires-python = ">=3.8"
