@@ -3,7 +3,6 @@ name: Update Intermediary Mappings
 on:
   push:
     paths:
-      - 'versions/**'
       - 'scripts/**'
   workflow_dispatch:
   schedule:
