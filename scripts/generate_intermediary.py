@@ -1,11 +1,4 @@
 #!/usr/bin/env python3
-"""
-generate_intermediary.py
-========================
-
-Very small proof-of-concept script that turns Mojang's named mappings into
-stable hashed “intermediary” names (class_XXXX, method_XXXX, field_XXXX).
-"""
 from pathlib import Path
 import hashlib
 import sys
