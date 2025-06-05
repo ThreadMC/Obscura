@@ -1,0 +1,10 @@
+# Build and artefacts
+/build/
+/out/
+generated_mappings/
+*.class
+*.jar
+
+# IDE
+.idea/
+.vscode/
